@@ -1,9 +1,12 @@
 *.class
 *~
 target/**
-**/.setting/**
+**/.settings/**
 **/target/**
 **/target/*
 **/.project
 **/.classpath
 *.log
+.settings/**
+.project
+.classpath
